@@ -5,7 +5,7 @@ programming. I Enjoy learning new concepts and technologies. Looking for challen
 
 ### Skills
 
-● Backend/Frontend languages – JavaScript ES6, HTML5, CSS3. \
+● Backend/Frontend languages – JavaScript ES6, HTML5, CSS3.  
 ● Tools and IDEs-- Eclipse, Android Studio, Net-Beans, MySQL, VS Code, AEM.\
 ● Web Services--SOAP, REST \
 ● Others- OOPS, SQL, GIT, GITHUB, MAVEN.\
