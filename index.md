@@ -1,7 +1,7 @@
 ## About Me
 
 A self-motivated JavaScript developer with 2 years of experience in web application development and
-programming. I Enjoy learning new concepts and technologies. Looking for challenges to use my passion for the growth of organization and to enhance my skills.
+programming. I enjoy learning new concepts and technologies. Looking for challenges to use my passion for the growth of organization and to enhance my skills.
 
 ### Skills
 
