@@ -13,6 +13,7 @@ programming. I enjoy learning new concepts and technologies. Looking for challen
 ### Work Experience 
 Programmer Analyst (Cognizant Technology Solutions, Gurgaon) July 2018 - Present  
 NEO 2.0(Customer Service) – Presently working as a Front-end developer in customer service module for the client Max Life Insurance.	
+
 ●	Frontend- JavaScript Es 5,6 & React JS
 ●	Adobe Experience Manager 6.2 as Content management tool.
 ●	Implemented integration with various other systems for sending and receiving data using REST web services.
