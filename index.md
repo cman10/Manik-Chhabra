@@ -49,7 +49,6 @@ B. Tech in Information Technology from Northern India Engineering College, GGSIP
 ●	Participated in Max Life Hackathon’2018 and developed an application for Google Assistant by successfully learning and implementing it in dialog flow while making it interactive to work on all type of devices while keeping users engaged to the platform.
 ●	Campaign Manager of Anti- Drugs and Anti-Ragging (ADAR’16) drive organized by NGO, Leaders for tomorrow.
 ●	Volunteered and organised “Bug Bounty’16” a technical event in annual Tech-fest of college.
-
 ●	Attended Zest Model United Nations 2015 as a delegate organized at Northern India Engineering College in 2015.  
 ●	Received many inter-school level laurels in academics as well as in other curricular activities.
 
